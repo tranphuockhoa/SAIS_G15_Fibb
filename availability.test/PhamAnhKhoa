@@ -1,3 +1,3 @@
--làm sao để xác định một sự cố là scheduled downtime hay là một unscheduled failure
--tại sao availability lại được xem là có liên quan chặt chẽ đến security, performance và safety
--Khi một hệ thống hoạt động ở chế độ degraded mode thì nó có còn được xem là available không
+-làm sao để xác định một sự cố là scheduled downtime hay là một unscheduled failure?
+-tại sao availability lại được xem là có liên quan chặt chẽ đến security, performance và safety?
+-Khi một hệ thống hoạt động ở chế độ degraded mode thì nó có còn được xem là available không?
