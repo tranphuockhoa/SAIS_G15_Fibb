@@ -1,3 +1,3 @@
 Trong trường hợp hệ thống gặp lỗi nhưng vẫn hoạt động ở chế độ suy giảm (degraded mode), thì điều này có được tính là "availability bị giảm" không ạ?
-Trong bối cảnh của phát triển phần mềm, khả năng hoạt động, thời gian hỏng và độ tin cậy có sự khác biệt gì? 
+Degraded mode có bị tính downtime không?
 Khi nào hệ thống chậm được xem là “failure” chứ không chỉ là giảm performance?
