@@ -1,0 +1,3 @@
+- Nếu database bị ngắt kết nối, API có trả lỗi rõ ràng hay sập hoàn toàn?
+- Thời gian API khởi động lại sau khi crash là bao lâu?
+- Có cơ chế restart dịch vụ (Supervisor, systemd, Docker healthcheck) khi bị crash không?
