@@ -1,0 +1,3 @@
+Trong bối cảnh hệ thống của chúng ta, "unavailable" (không khả dụng) được định nghĩa chính xác là gì (ví dụ: hệ thống không phản hồi, kết quả sai, hoạt động suy giảm)?
+Làm thế nào chúng ta sẽ xác định các lỗi (faults) và phản ứng mong muốn của hệ thống đối với các lỗi đó để xây dựng mô hình lỗi cho dự án của mình?
+Khi xác định các yêu cầu về khả dụng, chúng ta sẽ xem xét sự khác biệt giữa các hệ thống "fail silent" (lỗi im lặng) và "fail operational" (lỗi hoạt động một phần) như thế nào, và điều này ảnh hưởng đến thiết kế của chúng ta ra sao
